@@ -11,6 +11,6 @@
 
 [instagram]: https://www.instagram.com/codewithkusum
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kusumghimire&show_icons=true&include_all_commits=true&theme=dark" alt="Kusum's stats" />
-</a>
+//<a href="https://github.com/anuraghazra/github-readme-stats">
+ // <img align="center" src="https://github-readme-stats.vercel.app/api?username=kusumghimire&show_icons=true&include_all_commits=true&theme=dark" alt="Kusum's stats" />
+//</a>
